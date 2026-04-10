@@ -1,0 +1,4 @@
+WELFake_Dataset.csv
+*.csv
+__pycache__/
+*.pyc
