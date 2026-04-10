@@ -1,4 +1,14 @@
-WELFake_Dataset.csv
+# datasets
 *.csv
+
+# models
+*.pkl
+*.joblib
+
+# python
 __pycache__/
 *.pyc
+
+# env
+venv/
+.env
